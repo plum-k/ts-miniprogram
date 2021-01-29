@@ -1,0 +1,10 @@
+<view>
+    <van-row custom-class="row">
+        <van-col span="12">
+            hello
+        </van-col>
+        <van-col span="12">
+            <van-button disabled type="info" custom-class="button">word</van-button>
+        </van-col>
+    </van-row>
+</view>
